@@ -1,2 +1,2 @@
-path: "parkinsons"
+path: "parkinsons.csv"
 features: ['MDVP:Fo(Hz)', 'MDVP:Fhi(Hz)']
